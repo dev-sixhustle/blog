@@ -20,6 +20,7 @@
 ## **Database**
 
 1. [MySQL Replication](https://velog.io/@sixhustle/mysql-replication)
+2. [Database Connection Pool](https://velog.io/@sixhustle/connection-pool)
 
 ## **Docker & Kubernetes**
 
