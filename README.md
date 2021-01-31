@@ -14,9 +14,8 @@
 6. [Java Simplified Encryption](https://velog.io/@sixhustle/Jasypt)
 7. [Logging Request/Response](https://velog.io/@sixhustle/log)
 8. [Call By Value](https://velog.io/@sixhustle/callbyvalue)
-9. [[Bug]Qualifier multiple beans](https://velog.io/@sixhustle/qualifier-multiple-beans)
-10. [Null vs Empty vs Blank](https://velog.io/@sixhustle/null-empty-blank)
-11. [Bug] Response of generic type
+9. [Null vs Empty vs Blank](https://velog.io/@sixhustle/null-empty-blank)
+
 
 ## **Database**
 
@@ -32,3 +31,10 @@
 ## **Front End**
 
 1. [CSS](https://velog.io/@sixhustle/CSS)
+
+---
+
+## **Bug**
+1. [[Bug]Qualifier multiple beans](https://velog.io/@sixhustle/qualifier-multiple-beans)
+2. [Bug] Response of generic type
+
