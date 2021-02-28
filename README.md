@@ -42,6 +42,6 @@
 ---
 
 ## **Bug**
-1. [[Bug]Qualifier multiple beans](https://velog.io/@sixhustle/qualifier-multiple-beans)
+1. [[Bug] Qualifier multiple beans](https://velog.io/@sixhustle/qualifier-multiple-beans)
 2. [Bug] Response of generic type
 
