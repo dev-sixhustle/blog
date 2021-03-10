@@ -18,6 +18,9 @@
 10. RestTemplate
 11. WebClient
 
+## **JPA**
+1. JPA란
+
 ## **Kotlin**
 
 1. [[Kotlin In Action] Chapter 01](https://velog.io/@sixhustle/Kotlin-In-Action-1)
