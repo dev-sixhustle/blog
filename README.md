@@ -26,7 +26,8 @@
 
 1. [[Kotlin In Action] Chapter 01](https://velog.io/@sixhustle/Kotlin-In-Action-1)
 2. [[Kotlin In Action] Chapter 02](https://velog.io/@sixhustle/Kotlin-In-Action-2)
-3. [[Kotlin In Action] Chapter 03](https://velog.io/@sixhustle/Kotlin-In-Action-3)
+3. [Kotlin In Action] Chapter 03
+4. [Kotlin In Action] Chapter 04
 
 ## **Database**
 
@@ -57,5 +58,4 @@
 ## **Boooooook**
 
 1. [오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391409&orderClick=LAG&Kc=)
-1. 
 
