@@ -4,6 +4,10 @@
 
 1. [Sorting algorithm](https://velog.io/@sixhustle/sorting-algorithm)
 
+## **알고리즘 문제해결전략**
+
+---
+
 ## **Java & Spring Boot**
 
 1. [String, StringBuilder, StringBuffer](https://velog.io/@sixhustle/stringstringbuilderstringbuffer)
