@@ -25,6 +25,7 @@
 ## **JPA**
 1. JPA란
 2. Entity Manager
+3. 1:N
 
 ## **Kotlin**
 
